@@ -121,12 +121,17 @@ class UploadToS3 extends Component {
                   </div>
                 <div className="jumbotron text-center">
                     <h3>Replay here</h3>
+                    
                     <AudioPlayer
                         src={urlLink}
                         onPlay={e => console.log("onPlay")} />
                     
                 </div>
-
+                    <footer class="footer">
+                        <div class="copyright float-right">
+                            <a href="/AboutUs">CMPE172 Spring 2021 Group 4</a>
+                        </div>
+                    </footer>
             </div>
 
 
