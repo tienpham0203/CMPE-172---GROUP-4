@@ -2,6 +2,9 @@
 
 BE MY SPEAKER APPLICATION
 
+HOMEPAGE 
+<img width="1280" alt="Screen Shot 2021-05-11 at 12 38 31 AM" src="https://user-images.githubusercontent.com/36835097/117693827-fecc4780-b1f0-11eb-90e8-954fedd5d3d5.png">
+
 How to run the front end:
 Make sure you have node in your machine. If not, you have to install it
 cd to front end `npm install`
