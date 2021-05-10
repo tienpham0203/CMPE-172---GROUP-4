@@ -56,7 +56,7 @@ Download it from here: https://www.docker.com/products/docker-desktop
 
 # 3. cd to frontend
 
-# 4. 
+# 4. Dockerize React App
 ```
 $ docker build -t dockerize-react:v1 .
 
