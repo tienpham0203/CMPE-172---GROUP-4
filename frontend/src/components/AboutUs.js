@@ -28,7 +28,7 @@ class AboutUs extends Component {
 
                 <div class="column">
                     <div class="card">
-                    <img src="Tien.png" alt="Mike" styles="width:100%"></img>
+                    <img src="Tien.PNG" alt="Tien" styles="width:100%"></img>
                     <div class="container">
                         <h2>Tien Pham</h2>
                         <p>tien.pham@sjsu.edu</p>
