@@ -16,9 +16,11 @@ Be My Speaker is a simple text-to-speech application that allows users to read a
 # RUN LOCALLY
 
 # 1. Clone Repo
+```
 $ Clone repo https://github.com/tienpham0203/CMPE-172---GROUP-4.git
 $ cd CMPE-172---GROUP-4
 $ cd frontend
+```
 
 How to run the front end:
 Make sure you have node in your machine. If not, you have to install it
