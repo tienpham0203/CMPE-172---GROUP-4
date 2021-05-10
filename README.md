@@ -45,3 +45,31 @@ $ npm start
 
 # 5. Run Be My Speaker
 - Run http://localhost:3000
+
+# Dockerize and run the react app
+
+# 1. Install Docker
+
+Download it from here: https://www.docker.com/products/docker-desktop
+
+# 2. Run Docker on your end
+
+# 3. cd to frontend
+
+# 4. 
+```
+$ docker build -t dockerize-react:v1 .
+
+$ docker run \                        
+    -it \
+    --rm \
+    -v ${PWD}:/app \
+    -v /app/node_modules \
+    -p 3000:3000 \
+    -e CHOKIDAR_USEPOLLING=true \
+    Dockerize-react:v1
+```
+ # 5. Run it
+ - Run http://localhost:3000
+   
+
